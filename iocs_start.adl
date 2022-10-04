@@ -1,12 +1,12 @@
 
 file {
-	name="/home/beams/7BMB/scripts/iocs_start.adl"
+	name="/home/beams9/7BMB/scripts/iocs_start.adl"
 	version=030111
 }
 display {
 	object {
-		x=2043
-		y=543
+		x=2033
+		y=535
 		width=665
 		height=220
 	}
@@ -141,7 +141,7 @@ display {
 	}
 	command[0] {
 		label="TomoScan"
-		name="bash /home/beams/USER2BMB/scripts/tomoscan_server.sh"
+		name="bash /home/beams/7BMB/scripts/tomoscan_server.sh"
 	}
 	clr=0
 	bclr=49
