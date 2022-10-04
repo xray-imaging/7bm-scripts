@@ -1,6 +1,6 @@
 
 file {
-	name="/home/beams8/USER2BMB/tt/iocs_start.adl"
+	name="/home/beams/7BMB/scripts/iocs_start.adl"
 	version=030111
 }
 display {
@@ -96,7 +96,7 @@ display {
 	}
 	command[0] {
 		label="TomoScan"
-		name="bash /home/beams/USER2BMB/scripts/tomoscanstream_IOC.sh"
+		name="bash /home/beams/7BMB/scripts/tomoscanstream_IOC.sh"
 	}
 	clr=0
 	bclr=49
@@ -111,7 +111,7 @@ display {
 	}
 	command[0] {
 		label="TomoScan"
-		name="bash /home/beams/USER2BMB/scripts/tomoscan_IOC.sh"
+		name="bash /home/beams/7BMB/scripts/tomoscan_IOC.sh"
 	}
 	clr=0
 	bclr=49
@@ -126,7 +126,7 @@ display {
 	}
 	command[0] {
 		label="TomoScan"
-		name="bash /home/beams/USER2BMB/scripts/tomoscanstream_server.sh"
+		name="bash /home/beams/7BMB/scripts/tomoscanstream_server.sh"
 	}
 	clr=0
 	bclr=49
@@ -156,7 +156,7 @@ display {
 	}
 	command[0] {
 		label="TomoScan"
-		name="bash /home/beams/USER2BMB/scripts/tomostream_IOC.sh"
+		name="bash /home/beams/7BMB/scripts/tomostream_IOC.sh"
 	}
 	clr=0
 	bclr=49
@@ -171,7 +171,7 @@ display {
 	}
 	command[0] {
 		label="TomoScan"
-		name="bash /home/beams/USER2BMB/scripts/tomostream_server.sh"
+		name="bash /home/beams/7BMB/scripts/tomostream_server.sh"
 	}
 	clr=0
 	bclr=49
